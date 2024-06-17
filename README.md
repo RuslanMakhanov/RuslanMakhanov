@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+- 🌱 I’m currently learning C#, Kotlin
+- 📫 How to reach me: mkhruslan@gmail.com
+
 <!--
 **RuslanMakhanov/RuslanMakhanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
