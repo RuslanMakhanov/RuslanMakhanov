@@ -4,11 +4,13 @@ A Software Developer specializing in C# technologies and Kotlin.
 ---
 ToolBox
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="csharp" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" alt="csharp" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="csharp" width="50" height="50">
+<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="csharp" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="50" height="50">
 
 
 - 🌱 I’m currently learning C#, Kotlin
 - 📫 How to reach me: mkhruslan@gmail.com
+
+<img src ="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" alt="telegram" width="50" height="50" href="https://t.me/RuslanNnNn1337">
 
 <!--
 **RuslanMakhanov/RuslanMakhanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
