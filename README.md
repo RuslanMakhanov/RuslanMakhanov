@@ -9,8 +9,9 @@ ToolBox
 
 - 🌱 I’m currently learning C#, Kotlin
 - 📫 How to reach me: mkhruslan@gmail.com
+- Telegram: https://t.me/RuslanNnNn1337
 
-<img src ="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" alt="telegram" width="50" height="50" href="https://t.me/RuslanNnNn1337">
+
 
 <!--
 **RuslanMakhanov/RuslanMakhanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
