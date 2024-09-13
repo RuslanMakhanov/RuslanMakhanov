@@ -12,11 +12,7 @@ ToolBox
 - Telegram: https://t.me/RuslanNnNn1337
 
 
-(sometime in the summer) 2021-16.07.2024
-bye bye, my LenovoLegion 5 Laptop :(
-now saving up my money to buy a new laptop for coding.
-
-Going to The military for 40 days starting on 22 of July
+Came back from the military
 <!--
 **RuslanMakhanov/RuslanMakhanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
