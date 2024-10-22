@@ -1,13 +1,13 @@
 ## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Ruslan!
 ---
-A Software Developer specializing in C# technologies and Kotlin.
+A Software Developer specializing in Python, C#, and Kotlin.
 ---
 ToolBox
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="csharp" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="kotlin" width="50" height="50">
 
 
-- 🌱 I’m currently learning C#, Kotlin
+- 🌱 I’m currently learning C#, Kotlin, Python
 - 📫 How to reach me: mkhruslan@gmail.com
 - Telegram: https://t.me/RuslanNnNn1337
 
